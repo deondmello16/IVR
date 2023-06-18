@@ -1,0 +1,11 @@
+pyttsx3
+pymongo
+wave
+pydub
+audioop
+sounddevice
+scipy
+wavio
+wave
+vosk
+json
